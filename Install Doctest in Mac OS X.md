@@ -4,18 +4,18 @@
   - Go to website https://www.haskell.org/platform/ 
   - Follow the instruction to install haskell platform
 
-## 2. update the list of package in hackage
+## 2. Update the list of package in hackage
   - Open your terminal
   - Using command: `cabal update`
   - Stay in terminal
 
-## 3. install doctest package
+## 3. Install doctest package
   - using command: `cabal install doctest`
 
-#### You may think everything is done.. No! :joy: 
+#### You may think everything is done.. No! :collision:
 #### You should add the installation directory into you PATH, or you will get a error said "-bash: doctest: command not found"
   
-## 4.find installation directory of doctest
+## 4. Find installation directory of doctest
   - when you choose the installer of Haskell platform 
     - if you choose core installer, 
       - your installation directory might be in:  ~/.cabal/bin
@@ -30,7 +30,7 @@
     - `pwd`    -- print working directory
     -  copy the path
     
- ## 5.add your installation directory into your PATH permanently
+ ## 5. Add your installation directory into your PATH permanently
    - Run the following command step by step
      - `sudo nano /etc/paths`
      - type you password if promoted
@@ -40,7 +40,7 @@
      - hit control x to quit
      - enter y
      
- ## 6.Congradulation! 
+ ## 6. Congradulation! :satisfied:
    - Now you can use doctest to test your program by typing command line:
      - ` doctest example.hs ` (be sure you are in same directory with example.hs)
 
