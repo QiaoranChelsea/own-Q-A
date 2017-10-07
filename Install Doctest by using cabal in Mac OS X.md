@@ -31,6 +31,12 @@
     -  copy the path
     
  ## 5.add your installation directory into your PATH permanently
+   ### Run the following command step by step
+   - `sudo nano /etc/paths`
+   - type you password if promoted
+   - Paste the path we copy in step 4 into the bottom of file
+   - hit control x to quit
+   - enter y
   
 
     
