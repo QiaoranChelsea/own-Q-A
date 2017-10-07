@@ -1,5 +1,5 @@
 # Q: how to install Doctest by using cabal in Mac OS X
-The first time when I install Doctest, I was struggle to find installation directory of doctest. Thanks to my classmate, he fix my problem, and now I'd like to share with you.
+The first time when I installed Doctest, I was struggle to find installation directory of doctest. Thanks to my classmate, he fix my problem, and now I'd like to share with you.
 
 ## 1. Install haskell platform
   - Go to website https://www.haskell.org/platform/ 
