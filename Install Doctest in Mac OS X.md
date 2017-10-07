@@ -13,7 +13,7 @@
   - using command: `cabal install doctest`
 
 #### You may think everything is done.. No! :collision:
-#### You should add the installation directory into you PATH, or you will get a error said "-bash: doctest: command not found"
+#### You should add the installation directory into you PATH, or you will get a error said > -bash: doctest: command not found"
   
 ## 4. Find installation directory of doctest
   - when you choose the installer of Haskell platform 
