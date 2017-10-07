@@ -2,7 +2,7 @@
 
 ## 1. Install haskell platform
   - Go to website https://www.haskell.org/platform/ 
-  - follow the instruction to install haskell platform
+  - Follow the instruction to install haskell platform
 
 ## 2. update the list of package in hackage
   1) open your terminal
