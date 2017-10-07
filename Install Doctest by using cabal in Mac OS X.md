@@ -1,4 +1,4 @@
-##Q: how to install Doctest by using cabal
+#Q: how to install Doctest by using cabal
 
 1. Install haskell platform
   Go to website https://www.haskell.org/platform/ and follow the instruction to install haskell platform
