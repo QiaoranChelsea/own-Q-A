@@ -36,7 +36,7 @@
      - type you password if promoted
      - Paste the path we copy in step 4 into the bottom of file
      file should be look like this: 
-     ![
+     ![alt text](filename.png "Description goes here")
      - hit control x to quit
      - enter y
   
