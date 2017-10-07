@@ -39,6 +39,7 @@
      ![alt text](screenshot/paths.png "Description goes here")
      - hit control x to quit
      - enter y
+     
   ## 6.Congradulation! 
     - Now you can use doctest to test your program by typing command line:
       - `doctest example.hs` (be sure you are in same directory with example.hs)
