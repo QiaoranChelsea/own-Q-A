@@ -5,9 +5,9 @@
   - Follow the instruction to install haskell platform
 
 ## 2. update the list of package in hackage
-  1) open your terminal
-  2) using command: cabal update
-  3) stay in terminal
+  - Open your terminal
+  - Using command: `cabal update`
+  - Stay in terminal
 
 ## 3. install doctest package
   1) using comman:cabal install doctest
