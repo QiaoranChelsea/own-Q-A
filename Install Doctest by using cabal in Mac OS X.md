@@ -12,8 +12,8 @@
 ## 3. install doctest package
   - using command: `cabal install doctest`
 
-### You may think everything is done.. No! 
-### You should add the installation directory into you PATH, or you will get a error said "-bash: doctest: command not found"
+#### You may think everything is done.. No! :joy: 
+#### You should add the installation directory into you PATH, or you will get a error said "-bash: doctest: command not found"
   
 ## 4.find installation directory of doctest
   - when you choose the installer of Haskell platform 
@@ -39,7 +39,9 @@
      ![alt text](screenshot/paths.png "Description goes here")
      - hit control x to quit
      - enter y
-  
+  ## 6.Congradulation! 
+    - Now you can use doctest to test your program by typing command line:
+      - `doctest example.hs` (be sure you are in same directory with example.hs)
 
     
     
