@@ -12,12 +12,13 @@ The following step illustrates how to install package by taking install idris-su
   - install it by clicking this line
 
 ## 3. Add Repository to Sublime Package Control
+  - Some packages like SublimeLinter have already in the repositort. If so, jump to step 4
   - For MAC OS, type 'command + shift + p' to open command pallet
   - Type "repository" and choose "Package Control: Add Repository" in the list
   - Then you will see a textarea in the bottom, copy paste the package url. For example, the url for idris-sublime is (https://github.com/idris-hackers/idris-sublime)  
 
 ## 4. Install the Package
-  - Now, open Command pallet again by clicking `Command + shift + p`
+  - Now, open Command pallet again by clicking `Command + shift + p` (In Mac)
   - Type or select "Package Control: Install Package"
   - Choose your package name. For example, I'll choose idris-sublime in this case.
 
