@@ -22,7 +22,7 @@ The first time when I installed Doctest for Haskell, I was struggle to find inst
     - if you choose core installer, 
       - your installation directory might be:  ~/.cabal/bin
     - if you choose full installer,
-      - your installation firectory might be:  ~/Library/Haskell/bin
+      - your installation directory might be:  ~/Library/Haskell/bin
      
   - The way that I used to find installation directory is:
     using command line step by step 
